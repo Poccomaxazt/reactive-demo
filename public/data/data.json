@@ -1,0 +1,108 @@
+[
+	{
+		"id":0,
+		"name":"Alex Didovich",
+		"age":21,
+		"speciality":"iOS developer",
+		"image":"cat",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":1,
+		"name":"Andrew Makarenko",
+		"age":28,
+		"speciality":"Full Stack developer",
+		"image":"dog",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":2,
+		"name":"Andrey Gvozd",
+		"age":31,
+		"speciality":"Web developer",
+		"image":"fox",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":3,
+		"name":"Andrey Lunyov",
+		"age":33,
+		"speciality":"Full Stack developer",
+		"image":"koala",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":4,
+		"name":"Dmytro Kerest",
+		"age":34,
+		"speciality":"Back End developer",
+		"image":"lion",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":5,
+		"name":"Dmytro Tsymbal",
+		"age":33,
+		"speciality":"Back End developer",
+		"image":"owl",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":6,
+		"name":"Igor Pinchuk",
+		"age":34,
+		"speciality":"Dev Ops",
+		"image":"penguin",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":7,
+		"name":"Igor Shubovych",
+		"age":33,
+		"speciality":"Product Delivery manager",
+		"image":"pig",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":8,
+		"name":"Kostia Upir",
+		"age":32,
+		"speciality":"Back End developer",
+		"image":"raccoon",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":9,
+		"name":"Oleksii Beloborodov",
+		"age":29,
+		"speciality":"Android developer",
+		"image":"sheep",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":10,
+		"name":"Oleksiy Nesterov",
+		"age":33,
+		"speciality":"Front End developer",
+		"image":"cat",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":11,
+		"name":"Savenets Nickolay",
+		"age":29,
+		"speciality":"Front End developer",
+		"image":"dog",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":12,
+		"name":"Sergey Panarin",
+		"age":30,
+		"speciality":"Back End developer",
+		"image":"fox",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":13,
+		"name":"Vladimir Ludinov",
+		"age":34,
+		"speciality":"Front End developer",
+		"image":"koala",
+		"phrase":"Just not interesting lorem ipsum"
+	}, {
+		"id":14,
+		"name":"Ivan Tsymbal",
+		"age":28,
+		"speciality":"Front End developer",
+		"image":"fox",
+		"phrase":"Just not interesting lorem ipsum"
+	}
+]
