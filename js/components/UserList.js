@@ -15,7 +15,7 @@ export default ({ data, update }) => {
           <th>Image</th>
           <th>Name</th>
           <th>Age</th>
-          <th>Speciality</th>
+          <th>Phone</th>
         </tr>
       </thead>
 

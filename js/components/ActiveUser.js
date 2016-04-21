@@ -22,8 +22,8 @@ export default ({ data, active }) => {
               <td>{user.image}</td>
             </tr>
             <tr>
-              <td>Speciality:</td>
-              <td>{user.speciality}</td>
+              <td>Phone:</td>
+              <td>38 {user.phone}</td>
             </tr>
           </tbody>
         </table>

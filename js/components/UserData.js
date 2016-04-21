@@ -6,7 +6,7 @@ export default ({ user, update, index }) => {
       <td><img src={`images/${user.image}.svg`} className="user-image" /></td>
       <td>{user.name}</td>
       <td>{user.age}</td>
-      <td>{user.speciality}</td>
+      <td>38 {user.phone}</td>
     </tr>
   );
 };
