@@ -4,3 +4,4 @@ public/css/
 public/index.html
 npm-debug.log
 .idea/
+public/js/bundle.js
